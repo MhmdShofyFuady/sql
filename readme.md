@@ -3,9 +3,8 @@
 | | |
 |---|---|
 | **Nama** | Muhammad Shofy Fuady |
-| **NIM** | _(isi NIM lo)_ |
-| **Mata Kuliah** | Basis Data |
-| **Dosen** | _(isi nama dosen)_ |
+| **NIM** | _(60324048)_ |
+| **Mata Kuliah** | Pemrogramman web 2 |
 
 ---
 
