@@ -1,10 +1,12 @@
+[README.md](https://github.com/user-attachments/files/27130272/README.md)
 # Tugas Database — Sistem Perpustakaan
 
 | | |
 |---|---|
 | **Nama** | Muhammad Shofy Fuady |
-| **NIM** | _(60324048)_ |
-| **Mata Kuliah** | Pemrogramman web 2 |
+| **NIM** | _(isi NIM lo)_ |
+| **Mata Kuliah** | Basis Data |
+| **Dosen** | _(isi nama dosen)_ |
 
 ---
 
